@@ -110,6 +110,7 @@ public class ServerConnection {
     }
 
     //Getters and setters
+
     public String getServerURL() {
         return serverURL;
     }
